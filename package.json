@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "^16.4.2",
-    "react-dom": "^16.4.2"
+    "react-dom": "^16.4.2",
+    "sendbird": "^3.0.71"
   },
   "devDependencies": {
     "@types/node": "^10.7.1",
