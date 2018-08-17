@@ -4,5 +4,20 @@
   "main": "index.js",
   "repository": "git@github.com:acro5piano/sendbird-example-react",
   "author": "gosho-kazuya <ketsume0211@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^10.7.1",
+    "@types/react": "^16.4.11",
+    "@types/react-dom": "^16.0.7",
+    "parcel-bundler": "^1.9.7",
+    "typescript": "^3.0.1"
+  }
 }
